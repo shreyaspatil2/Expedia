@@ -25,7 +25,7 @@ def google_cloud_storage():
 
     # with st.sidebar:
     database = st.sidebar.selectbox("Select Database Name:", [
-        "Select", "Retail"], index=0)
+        "Select", "Retail", "Expedia"], index=0)
 
     if database != "Select":
         table_query = "SELECT table_name FROM affine2." + \
