@@ -45,7 +45,7 @@ st.markdown("""
                       -webkit-background-clip: text;
                       -webkit-text-fill-color: transparent;
                       text-shadow: none; text-decoration: none;'>
-                      Affine QUIN
+                      Expedia Gen-AI POC
 </a>
 </h2>
 </div>
